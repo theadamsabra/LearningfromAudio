@@ -6,3 +6,4 @@ This GitHub repository will host the code and figures used within the articles.
 
 # Links to Articles:
 - [Learning from Audio: Wave Forms](https://towardsdatascience.com/learning-from-audio-wave-forms-46fc6f87e016#60b2-e67809770e17)
+- Learning from Audio: Fourier Transformation (to be published soon)
