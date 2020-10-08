@@ -1,2 +1,2 @@
 import tensorflow as tf
-import scikit-image as ski
+import skimage as ski
