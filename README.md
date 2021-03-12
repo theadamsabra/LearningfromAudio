@@ -2,7 +2,7 @@
 ![image](images/ft1.png)
 ![image](images/3spec.png)
 
-Learning from Audio is a series of Medium articles written by Adam Sabra. Its main objective is to help those in the Data Science/Machine Learning field break into the audio domain starting from the basics of signal processing to more complex topics.
+Learning from Audio is a series of Medium articles written by Adam Sabra. Its main objective is to help those in the Data Science/Machine Learning field break into the audio domain starting from the basics of signal processing and build up towards more complex topics.
 
 This GitHub repository will host the code and figures used within the articles.
 
