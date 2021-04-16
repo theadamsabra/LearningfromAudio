@@ -1,0 +1,3 @@
+# Ignore all wav files to keep pushing and pulling with different snippets easier.
+# However, should you decide to use snip_audio.py for your own songs, it will by default save to this folder.
+*.wav
